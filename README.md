@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Student+and+Developer;Minecraft+Seed+Hunter;Exploring+Data+and+Tech)
+![Anime Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&color=A855F7&background=00000000&vCenter=true&multiline=false&width=500&height=50&lines=Self-absorbed+in+my+own+world;Building+my+own+universe;Spy78:+Level+Up+Your+Reality)
 
 ---
 
