@@ -5,7 +5,9 @@
 ---
 
 ### 📊 My GitHub Stats
-![Spy78's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spy78&show_icons=true&theme=tokyonight)
+<!-- Using Shion's ultra-stable public mirror for stats -->
+![Spy78's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Spy78&show_icons=true&theme=tokyonight)
 
-### 🏆 Achievements
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Spy78&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### 🔥 Contribution Streak
+<!-- Using a highly stable, fast-loading streak tracker -->
+![Spy78's Streak](https://streak-stats.demolab.com?user=Spy78&theme=tokyonight)
